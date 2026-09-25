@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:A855F7&height=200&section=header&text=Tangent0712&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Stay%20hungry%2C%20stay%20foolish.&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:A855F7&height=200&section=header&text=Tangent0712&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E8%8B%A6%E7%97%9B%E6%AD%A3%E6%BB%8B%E5%85%BB%E5%BF%83%E8%84%8F%E8%A3%82%E7%BC%9D%E5%BC%80%E5%87%BA%E7%9A%84%E9%B2%9C%E8%8A%B1&descAlignY=58&descSize=18" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+SC&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Stay+hungry%2C+stay+foolish.;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5+%E2%9C%A8;Base+Nanjing+%C2%B7+NJUPT+%C2%B7+Software+Engineering;Code+%26+Create)](https://github.com/Tangent0712)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+SC&weight=600&size=24&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&width=800&lines=Tangent0712%20%EF%BD%9C%20Base%20Nanjing%20%EF%BD%9C%20NJUPT%20%EF%BD%9C%20Software%20Engineering)](https://github.com/Tangent0712)
 
 **Tangent0712 ｜ Base Nanjing ｜ From NJUPT ｜ Software Engineering**
 
@@ -58,6 +58,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
@@ -73,25 +74,18 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tangent0712&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&icon_color=8B5CF6&border_color=A855F7" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tangent0712&layout=compact&langs_count=8&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&border_color=A855F7" />
+<img height="165" src="https://gh-readme-stats.vercel.app/api?username=Tangent0712&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&icon_color=8B5CF6&border_color=A855F7" />
+<img height="165" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=Tangent0712&layout=compact&langs_count=8&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&border_color=A855F7" />
 
 <img width="100%" src="https://streak-stats.demolab.com/?user=Tangent0712&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&border=A855F7" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tangent0712&bg_color=0D1117&color=A855F7&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" />
+<img width="100%" src="https://ghactivity.mrayush.me/graph?username=Tangent0712&bg_color=0D1117&color=A855F7&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
 ---
 
 <div align="center">
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tangent0712/Tangent0712/output/snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/Tangent0712/Tangent0712/output/snake.svg" />
-</picture>
 
 ### 🌌 3D Contribution Graph
 
