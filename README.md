@@ -107,7 +107,7 @@
 
 [![Email](https://img.shields.io/badge/Email-tangent0712@foxmail.com-A855F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tangent0712@foxmail.com)
 [![Blog](https://img.shields.io/badge/Blog-tangent0712.top-8B5CF6?style=for-the-badge&logo=astro&logoColor=white)](https://tangent0712.top)
-[![GitHub](https://img.shields.io/badge/GitHub-Tangent0712-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tangent0712)
+[![GitHub](https://img.shields.io/badge/GitHub-Tangent0712-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tangent0712)
 
 ---
 
