@@ -28,40 +28,16 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <table>
-        <tr>
-          <td width="88" align="center" valign="middle"><img alt="TypeScript" width="80" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/TypeScript/png/TypeScript.png"></td>
-          <td valign="middle"><b>TypeScript</b><br>类型安全，大型前端 / 全栈项目的首选，和 React 生态配合开发体验最好。</td>
-        </tr>
-      </table>
-    </td>
-    <td width="50%" valign="top">
-      <table>
-        <tr>
-          <td width="88" align="center" valign="middle"><img alt="React" width="80" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/React/png/React.png"></td>
-          <td valign="middle"><b>React</b><br>组件化生态最成熟、实习 / 校招需求大，复杂交互用 TS 写起来很稳。</td>
-        </tr>
-      </table>
-    </td>
+    <td width="1%" align="center" valign="middle"><img alt="TypeScript" width="56" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/TypeScript/png/TypeScript.png"></td>
+    <td width="49%" valign="middle"><b>TypeScript</b><br>类型安全，大型前端 / 全栈项目的首选，和 React 生态配合开发体验最好。</td>
+    <td width="1%" align="center" valign="middle"><img alt="React" width="56" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/React/png/React.png"></td>
+    <td width="49%" valign="middle"><b>React</b><br>组件化生态最成熟、实习 / 校招需求大，复杂交互用 TS 写起来很稳。</td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <table>
-        <tr>
-          <td width="88" align="center" valign="middle"><img alt="Kotlin" width="80" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Kotlin/png/Kotlin.png"></td>
-          <td valign="middle"><b>Kotlin</b><br>现代简洁、空安全，Android 与后端通吃，和 Java 无缝互操作。</td>
-        </tr>
-      </table>
-    </td>
-    <td width="50%" valign="top">
-      <table>
-        <tr>
-          <td width="88" align="center" valign="middle"><img alt="Go" width="80" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Go%20Lang/png/Golang.png"></td>
-          <td valign="middle"><b>Go</b><br>语法极简、并发模型优雅，云原生 / AI Infra 基础设施（Docker、K8s）的主力语言。</td>
-        </tr>
-      </table>
-    </td>
+    <td width="1%" align="center" valign="middle"><img alt="Kotlin" width="56" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Kotlin/png/Kotlin.png"></td>
+    <td width="49%" valign="middle"><b>Kotlin</b><br>现代简洁、空安全，Android 与后端通吃，和 Java 无缝互操作。</td>
+    <td width="1%" align="center" valign="middle"><img alt="Go" width="56" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Go%20Lang/png/Golang.png"></td>
+    <td width="49%" valign="middle"><b>Go</b><br>语法极简、并发模型优雅，云原生 / AI Infra 基础设施（Docker、K8s）的主力语言。</td>
   </tr>
 </table>
 
