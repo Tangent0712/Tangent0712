@@ -24,20 +24,22 @@
 
 ## 🛠 Tech Stack / 技术栈
 
-<div align="center">
+**Main Stack 👎**
 
-<img alt="TypeScript" width="72" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/TypeScript/png/TypeScript.png" /> <img alt="React" width="72" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/React/png/React.png" /> <img alt="Kotlin" width="72" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Kotlin/png/Kotlin.png" /> <img alt="Go" width="72" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Go%20Lang/png/Golang.png" />
-
-</div>
+<table>
+  <tr>
+    <td align="center" width="25%"><img alt="TypeScript" width="100%" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/TypeScript/png/TypeScript.png" /><br><b>TypeScript</b></td>
+    <td align="center" width="25%"><img alt="React" width="100%" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/React/png/React.png" /><br><b>React</b></td>
+    <td align="center" width="25%"><img alt="Kotlin" width="100%" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Kotlin/png/Kotlin.png" /><br><b>Kotlin</b></td>
+    <td align="center" width="25%"><img alt="Go" width="100%" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Go%20Lang/png/Golang.png" /><br><b>Go</b></td>
+  </tr>
+</table>
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -50,7 +52,6 @@
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
