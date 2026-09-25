@@ -28,16 +28,16 @@
 
 <table>
   <tr>
-    <td width="15%" align="center" valign="middle"><img alt="TypeScript" width="108" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/TypeScript/png/TypeScript.png"></td>
-    <td width="35%" valign="middle"><b>TypeScript</b><br>静态类型！给 JS 补上编译期类型检查 💙</td>
-    <td width="15%" align="center" valign="middle"><img alt="Go" width="108" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Go%20Lang/png/Golang.png"></td>
-    <td width="35%" valign="middle"><b>Go</b><br>并发优雅！gofmt 强制统一格式！云原生主力语言 🐹</td>
+    <td width="18%" align="center" valign="middle"><img alt="TypeScript" width="144" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/TypeScript/png/TypeScript.png"></td>
+    <td width="32%" valign="middle"><b>TypeScript</b><br>静态类型！给 JS 补上编译期类型检查 💙</td>
+    <td width="18%" align="center" valign="middle"><img alt="Go" width="144" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Go%20Lang/png/Golang.png"></td>
+    <td width="32%" valign="middle"><b>Go</b><br>并发优雅！gofmt 强制统一格式！云原生主力语言 🐹</td>
   </tr>
   <tr>
-    <td width="15%" align="center" valign="middle"><img alt="Kotlin" width="108" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Kotlin/png/Kotlin.png"></td>
-    <td width="35%" valign="middle"><b>Kotlin</b><br>空值安全！与 Java 完全互操作的现代 JVM 语言 💜</td>
-    <td width="15%" align="center" valign="middle"><img alt="React" width="108" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/React/png/React.png"></td>
-    <td width="35%" valign="middle"><b>React</b><br>声明式组件化！函数式风格的现代 UI 库 ⚛️</td>
+    <td width="18%" align="center" valign="middle"><img alt="Kotlin" width="144" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Kotlin/png/Kotlin.png"></td>
+    <td width="32%" valign="middle"><b>Kotlin</b><br>空值安全！与 Java 完全互操作的现代 JVM 语言 💜</td>
+    <td width="18%" align="center" valign="middle"><img alt="React" width="144" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/React/png/React.png"></td>
+    <td width="32%" valign="middle"><b>React</b><br>声明式组件化！函数式风格的现代 UI 库 ⚛️</td>
   </tr>
 </table>
 
