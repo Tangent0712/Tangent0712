@@ -24,6 +24,12 @@
 
 ## 🛠 Tech Stack / 技术栈
 
+<div align="center">
+
+<img alt="TypeScript" width="72" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/TypeScript/png/TypeScript.png" /> <img alt="React" width="72" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/React/png/React.png" /> <img alt="Kotlin" width="72" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Kotlin/png/Kotlin.png" /> <img alt="Go" width="72" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Go%20Lang/png/Golang.png" />
+
+</div>
+
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
