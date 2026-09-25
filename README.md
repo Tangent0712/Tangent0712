@@ -18,7 +18,7 @@
 
 - 🎓 Software Engineering @ **NJUPT**（南京邮电大学）
 - 📍 Based in **Nanjing, China**
-- 💡 全栈开发 & AI 爱好者，喜欢把想法做成能真正跑起来的东西
+- 💡 全栈开发 & AI 爱好者，面向应用开发，解决遇到的真实问题而不是制造伪需求
 
 ---
 
