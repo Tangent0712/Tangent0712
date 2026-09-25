@@ -68,27 +68,23 @@
 
 ---
 
-## 🚀 Projects / 项目
+## Projects / 项目
 
-### [大切课程表 · Tangent-Timetable](https://github.com/Tangent0712/Tangent-Timetable) ![stars](https://img.shields.io/github/stars/Tangent0712/Tangent-Timetable?style=flat-square&color=A855F7&logo=github)
+### 🚀 应用 · Apps
 
-面向大学生的**课程表 + 待办**一站式日程管理工具：以 AI 降低课表录入成本，实时倒计时、循环待办、考试管理覆盖整个学期。
+### [大切课程表 · Tangent-Timetable](https://github.com/Tangent0712/Tangent-Timetable)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=openai&logoColor=white)
+面向大学生的课程表 + 待办一站式日程管理工具——以 AI 降低课表录入成本，实时倒计时、循环待办、考试管理覆盖整个学期。
 
-### [webplus-pro-skill](https://github.com/Tangent0712/webplus-pro-skill) ![stars](https://img.shields.io/github/stars/Tangent0712/webplus-pro-skill?style=flat-square&color=A855F7&logo=github)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=openai&logoColor=white) ![stars](https://img.shields.io/github/stars/Tangent0712/Tangent-Timetable?style=flat-square&color=A855F7&logo=github)
 
-南京邮电大学 **WebPlus Pro** 网站群的通用 Agent Skill：从模板包生产、后台配置到内容交付的全链路自动化（含隐藏后台 API 与 CLI 工具）。
+### 🛠 工具 · Tools
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![AI Agent Skill](https://img.shields.io/badge/AI_Agent_Skill-A855F7?style=flat-square&logo=openai&logoColor=white)
+### [webplus-pro-skill](https://github.com/Tangent0712/webplus-pro-skill)
+
+南京邮电大学 WebPlus Pro 网站群的通用 Agent Skill——从模板包生产、后台配置到内容交付的全链路自动化（含隐藏后台 API 与 CLI 工具）。
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![AI Agent Skill](https://img.shields.io/badge/AI_Agent_Skill-A855F7?style=flat-square&logo=openai&logoColor=white) ![stars](https://img.shields.io/github/stars/Tangent0712/webplus-pro-skill?style=flat-square&color=A855F7&logo=github)
 
 ---
 
