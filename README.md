@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:A855F7&height=200&section=header&text=Tangent0712&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E8%8B%A6%E7%97%9B%E6%AD%A3%E6%BB%8B%E5%85%BB%E5%BF%83%E8%84%8F%E8%A3%82%E7%BC%9D%E5%BC%80%E5%87%BA%E7%9A%84%E9%B2%9C%E8%8A%B1&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:A855F7&height=200&section=header&text=Tangent0712&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+SC&weight=600&size=24&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&width=800&lines=Tangent0712%20%EF%BD%9C%20Base%20Nanjing%20%EF%BD%9C%20NJUPT%20%EF%BD%9C%20Software%20Engineering)](https://github.com/Tangent0712)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+SC&weight=600&size=26&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&width=800&lines=%E8%8B%A6%E7%97%9B%E6%AD%A3%E6%BB%8B%E5%85%BB%E5%BF%83%E8%84%8F%E8%A3%82%E7%BC%9D%E5%BC%80%E5%87%BA%E7%9A%84%E9%B2%9C%E8%8A%B1)](https://github.com/Tangent0712)
 
 **Tangent0712 ｜ Base Nanjing ｜ From NJUPT ｜ Software Engineering**
 
