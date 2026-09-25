@@ -28,7 +28,7 @@
 
 <div align="center">
 
-<img width="100%" alt="Main Stack" src="https://raw.githubusercontent.com/Tangent0712/Tangent0712/main/assets/main-stack.svg" />
+<img width="100%" alt="Main Stack" src="https://raw.githubusercontent.com/Tangent0712/Tangent0712/main/assets/main-stack.svg?v=2" />
 
 </div>
 
