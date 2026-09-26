@@ -8,7 +8,7 @@
 
 ![followers](https://img.shields.io/github/followers/Tangent0712?style=for-the-badge&label=Followers&color=A855F7&logo=github&logoColor=white)
 ![stars](https://img.shields.io/github/stars/Tangent0712/Tangent0712?style=for-the-badge&label=Stars&color=A855F7&logo=github&logoColor=white)
-![visitors](https://komarev.com/ghpvc/?username=Tangent0712&label=Visitors&color=A855F7&style=for-the-badge)
+![visitors](https://hits.sh/github.com/Tangent0712.svg?style=for-the-badge&label=Visitors&color=A855F7)
 
 </div>
 
