@@ -115,7 +115,7 @@
 
 <div align="center">
 
-<img height="170" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=Tangent0712&layout=compact&langs_count=8&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&border_color=A855F7" /> <img height="170" src="https://streak-stats.demolab.com/?user=Tangent0712&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&border=A855F7" />
+<img height="170" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=Tangent0712&layout=compact&langs_count=8&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&border_color=A855F7" /> <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tangent0712&theme=github_dark&utcOffset=8&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&border_color=A855F7&icon_color=A855F7&chart_color=A855F7" />
 
 </div>
 
